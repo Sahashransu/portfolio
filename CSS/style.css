@@ -64,6 +64,11 @@ body{
 	max-width: 100%;
 }
 
+.cv:hover{
+	text-decoration: "Resume";
+
+}
+
 .desc {
 	font-size: 15px;
 }
