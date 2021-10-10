@@ -64,13 +64,14 @@ body{
 	max-width: 100%;
 }
 
-.cv:hover{
-	text-decoration: "Resume";
-
+.desc > span > a{
+	color: #c23616;
+	text-decoration: underline;
 }
 
 .desc {
-	font-size: 15px;
+	font-size: 17px;
+	text-align: justify;
 }
 .skillSection,
 .contactSection{
